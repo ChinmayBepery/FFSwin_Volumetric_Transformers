@@ -1,0 +1,51 @@
+model.load_state_dict(torch.load(model_path, map_location=device))
+⏳ Processing 857 patients...
+
+==================================================
+⚡ 1. COMPUTATIONAL EFFICIENCY
+==================================================
+🔹 Total Parameters:   451,239
+🔹 Model File Size:    1.74 MB
+🔹 Avg Inference Time: 969.04 ms / patient
+
+==================================================
+📊 2. CLINICAL METRICS
+==================================================
+🔹 Accuracy:          99.88%
+🔹 Macro F1:          0.9942
+🔹 Weighted F1:       0.9988
+--------------------------------------------------
+Class      | Prec       | Recall     | Spec
+--------------------------------------------------
+DryAMD     | 0.9818     | 1.0000     | 0.9988
+WetAMD     | 1.0000     | 0.9836     | 1.0000
+NonAMD     | 1.0000     | 1.0000     | 1.0000
+
+[Confusion Matrix]
+[[ 54   0   0]
+ [  1  60   0]
+ [  0   0 742]]
+
+Generating ROC Curves...
+✅ Saved 'roc_curves_thesis.png'
+
+Generating t-SNE (Features)...
+✅ Saved 'tsne_plot_thesis.png'
+
+✅ Confusion Matrix saved
+✅ ROC Curves saved
+✅ t-SNE Plot saved
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      DryAMD       0.98      1.00      0.99        54
+      WetAMD       1.00      0.98      0.99        61
+      NonAMD       1.00      1.00      1.00       742
+
+    accuracy                           1.00       857
+   macro avg       0.99      0.99      0.99       857
+weighted avg       1.00      1.00      1.00       857
+
+
+🎉 DONE! All figures generated and saved.
