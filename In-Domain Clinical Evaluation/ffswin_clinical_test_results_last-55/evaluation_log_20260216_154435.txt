@@ -1,0 +1,24 @@
+FFSwin Evaluation Report (TMI)
+Timestamp: 20260216_154435
+
+Test Samples: 64
+Accuracy: 82.81%
+95% CI: ±9.24%
+Macro-F1: 0.6970
+Weighted-F1: 0.8547
+
+Confusion Matrix:
+[[ 4  0  0]
+ [ 0  4  0]
+ [ 7  4 45]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         Dry     0.3636    1.0000    0.5333         4
+         Wet     0.5000    1.0000    0.6667         4
+         Non     1.0000    0.8036    0.8911        56
+
+    accuracy                         0.8281        64
+   macro avg     0.6212    0.9345    0.6970        64
+weighted avg     0.9290    0.8281    0.8547        64

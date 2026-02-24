@@ -1,0 +1,2 @@
+CURRENT MODEL SIZE: 453367 parameters
+✅ DIAGNOSIS: The model looks fine. (Expected ~200k+ params)

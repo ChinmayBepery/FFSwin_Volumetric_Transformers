@@ -1,0 +1,10 @@
+Data\Local\Programs\Python\Python311\python.exe c:/Users/CSE-AI-Lab/Desktop/ChinmayResearch/PseudoFFSwin_first_successfully_ku_run/Machine_infor.py
+
+SYSTEM INFO: {'os': 'Windows', 'os_release': '10', 'os_version': '10.0.22631', 'machine': 'AMD64', 'processor': 'AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD'}
+
+CPU INFO: {'brand': 'AMD Ryzen 9 7950X 16-Core Processor', 'architecture': 'X86_64', 'cores_physical': 8, 'cores_logical': 16, 'max_frequency_mhz': '4491.00 MHz'}
+
+RAM INFO: {'total_gb': 12.0, 'available_gb': 6.25, 'used_gb': 5.75, 'usage_percent': 47.9}
+
+GPU INFO: [{'name': 'NVIDIA RTX A6000', 'memory_total_gb': 47.99, 'cuda_capability': '8.6'}]
+PS C:\Users\CSE-AI-Lab\Desktop\ChinmayResearch>
