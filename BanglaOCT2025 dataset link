@@ -1,0 +1,5 @@
+For FFSwin classification based expriment, we have used our previously published "BanglaOCT2025". We have also used RETOUCH and AROI dataset. 
+The BanglaOCT2025 Dataset link is: https://drive.google.com/drive/folders/1LOMXwcAAyyYc9ZzGt1LbUBdH-dGZJrTr
+From this dataset, we have splitted (Training/Validation/Testing) the data for current experiment and this splitted datafolder names are:
+FFSwin_classifi_Split_Train_Valid_Test_RawData: https://drive.google.com/drive/folders/1FAFFIc6JaihIML7lGFmxRcbkIAsunvt3?usp=drive_link
+FFSwin_classifi_Split_Train_Valid_Test_DenoisData: https://drive.google.com/drive/folders/1Okq7vNKhzJA8dElRKqcIYpblTyxpDWes?usp=drive_link
