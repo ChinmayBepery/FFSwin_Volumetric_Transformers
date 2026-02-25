@@ -1,0 +1,9 @@
+RETOUCH DATASET
+===============
+We have collected the publicly available RETOUCH dataset by maintaing the formalities through https://retouch.grand-challenge.org/ and also email communication
+
+We have extracted the raw OCT images from their shared data repository and also extract the PED patient by using their .mhd files.
+
+I am only sharing the PED(wetAMD) based extracted data for our experiment justification. If any one wish to use this data, s/he must maintain the the formalities through https://retouch.grand-challenge.org/ and must cite the associate article.
+
+Here we keep the data in WetAMD folder. The dry and Non AMD folders are empty. The used subset of RETOUCH dataset link is: https://drive.google.com/drive/folders/15tsTvzJ2NHn3fSV14CwmKiCyyGxv2yka?usp=sharing

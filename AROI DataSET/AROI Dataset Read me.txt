@@ -1,0 +1,21 @@
+AROI DATASET
+===============
+We have collected the publicly available AROIdataset by email communication.
+
+This dataset belongs Wet AMD volume data. Here we keep the data in WetAMD folder. The dry and Non AMD folders are empty. The used 33 fovea centric extracted denoised slices of AROI dataset link is: https://drive.google.com/drive/folders/1aK2if6UH3KSjaOmGzJjFs8MbamYfnTgQ?usp=sharing
+
+The email copy as:
+
+If any one wish to use this data, s/he must maintain the the formalities through email communication to Martina Melinscak (martina.melinscak@gmail.com) and must cite the associate article. The message is give below:
+you can download the database If you want to use it for educational or research purposes.
+
+Please acknowledge the database by citing the following publications (in any publication utilising the dataset):
+
+M. Melinščak, M. Radmilović, Z. Vatavuk, and S. Lončarić, "Annotated retinal optical coherence tomography images (AROI) database for joint retinal layer and fluid segmentation," Automatika, vol. 62, no. 3, pp. 375-385, Jul. 2021. doi: 10.1080/00051144.2021.1973298
+
+M. Melinščak, M. Radmilović, Z. Vatavuk, and S. Lončarić, "AROI: Annotated Retinal OCT Images database," in 2021 44th International Convention on Information, Communication and Electronic Technology (MIPRO), Sep. 2021, pp. 400-405.
+
+M. Melinščak, "Attention-based U-net: Joint segmentation of layers and fluids from retinal OCT images," in 2023 46th International Convention on Information, Communication and Electronic Technology (MIPRO), Sep. 2021, pp. 391-396.
+
+M. Melinščak, "Enhancing Interpretability in Retinal OCT Analysis Using Grad-CAM: A Study on the AROI Dataset" in 48th International Convention on Information, Communication and Electronic Technology (MIPRO), 2025, pp 1433-1438.
+
