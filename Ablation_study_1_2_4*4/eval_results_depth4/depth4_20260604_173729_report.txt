@@ -1,0 +1,22 @@
+FFSwin depth_patch=4
+Checkpoint: ablation_checkpoints\classifier_best_depth4.pth
+Test samples: 64
+Accuracy: 81.25%  (95% CI: ±9.56%)
+Macro-F1: 0.5522
+Weighted-F1: 0.8258
+
+Confusion Matrix:
+[[ 1  0  3]
+ [ 0  3  1]
+ [ 4  4 48]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      DryAMD     0.2000    0.2500    0.2222         4
+      WetAMD     0.4286    0.7500    0.5455         4
+      NonAMD     0.9231    0.8571    0.8889        56
+
+    accuracy                         0.8125        64
+   macro avg     0.5172    0.6190    0.5522        64
+weighted avg     0.8470    0.8125    0.8258        64
