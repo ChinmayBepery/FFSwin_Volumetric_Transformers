@@ -1,1 +1,4 @@
+The BanglaOCT2025 dataset (https://www.mdpi.com/2075-4418/16/3/420) has been realeased as:
+Bepery, Chinmay, GM Atiqur Rahaman, Rameswar Debnath, Sajib Saha, Md Shafiqul Islam, Md Emranul Islam Abir, and Sanjay Kumar Sarker. "BanglaOCT2025: A Population-Specific Fovea-Centric OCT Dataset with Self-Supervised Volumetric Restoration Using Flip-Flop Swin Transformers." Diagnostics 16, no. 3 (2026): 420.
 
+In this research, the BanglaOCT2025 dataset splitted for FFSwin classification experiments and available in https://drive.google.com/drive/folders/1Okq7vNKhzJA8dElRKqcIYpblTyxpDWes?usp=drive_link
